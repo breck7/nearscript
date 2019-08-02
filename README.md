@@ -1,0 +1,2 @@
+# nearscript
+near script demo
